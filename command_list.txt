@@ -1,0 +1,86 @@
+    1  yum install git -y
+    2  clear
+    3  cd/tmp/
+    4  cd / tm´p/
+    5  cd/ tmp/
+    6  cd /tmp/
+    7  git clone https://github.com/jonas/tig.git
+    8  gcc
+    9  cd tig
+   10   yum install gcc ncurses-devel ncurses -y
+   11  make
+   12  make install
+   13  tig
+   14  ld
+   15  ls
+   16  cd
+   17  pwd
+   18  ls
+   19  pwd
+   20  ls
+   21  cd
+   22  cd
+   23  ls
+   24  cd /tmp
+   25  rm-rf tig/
+   26  rem-rf tig/
+   27  rm -rf tig/
+   28  https://github.com/ICESI-Training/so-workshop2.git
+   29  git clone https://github.com/julianNinoo/so-workshop2.git
+   30  cd so-workshop2/
+   31  tig
+   32  touch message_1.txt
+   33  ls
+   34  git status
+   35  clear
+   36  git add message_1.txt 
+   37  git status
+   38  git reset message_1.txt 
+   39  git status
+   40  git branch
+   41  git checkout -b
+   42  git checkout -b A00328080/workshop2
+   43  git branch
+   44  git checkout master
+   45  git branch -D A00328080/workshop2
+   46  git branch -b jniño/workshop2
+   47  git bracj -b jnino/workshop2
+   48  git branch -b jnino/workshop2
+   49  git checkout -b jnino/workshop2
+   50  git branch 
+   51  clear
+   52  git branch
+   53  ls
+   54  git status
+   55  git commit -m "Add message_1.txt"
+   56  git add message_1.txt 
+   57  git status
+   58  git commit -m "Add message_1.txt"
+   59  git config --global user.name "juliannino!
+   60  git config --global user.name "juliannino"
+   61  '
+   62  "
+   63  git config --global user.name "juliannino"
+   64  git config --global user.email julian.nino@correo.icesi.edu.co
+   65  tig
+   66  cat .git/Config
+   67  cat .git/config
+   68  git push origin juliannino/workshop2
+   69  git branch
+   70  git push origin jnino/workshop2
+   71  git push origin juliannino/workshop2
+   72  ls
+   73  cd /tmp
+   74  ls
+   75  so-workshop2/
+   76  history > command_list.txt
+   77  vi command_list.txt
+   78  git add command_list.txt
+   79  pwd
+   80  cd so-workshop2/
+   81  ls
+   82  git status
+   83  tig
+   84  git add command_list.txt
+   85  ls
+   86  history > command_list.txt
