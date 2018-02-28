@@ -1,2 +1,7 @@
-Aquí va su tercer metodo
+#include<unistd.h>
+int main (){
+int m= open("prueba",0700);
+write (m,"nino",4);
+}
+
 
